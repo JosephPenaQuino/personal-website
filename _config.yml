@@ -1,5 +1,5 @@
 layout: sidebar
-style: light
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -17,7 +17,7 @@ defaults:
       layout: "post"
 
 projects:
-  sort_by: pushed
+  sort_by: stars
   limit: 9
   exclude:
     archived: false
@@ -58,6 +58,10 @@ topics:
   - name: Raspberry
     web_url: https://www.raspberrypi.org/
     image_url: https://cdn.iconscout.com/icon/free/png-256/raspberry-pi-3-569254.png
+
+  - name: TensorFlow
+    web_url: https://www.tensorflow.org/?hl=es-419
+    image_url: https://user-images.githubusercontent.com/13250741/64669187-33b55380-d47e-11e9-8bbf-c02a9d42f9a7.png
 
   - name: Python
     web_url: https://www.python.org/
