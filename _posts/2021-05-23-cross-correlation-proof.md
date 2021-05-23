@@ -1,6 +1,6 @@
 ---
 title: "Proof of cross correlation algorithm"
-published: true
+published: false
 comments: true
 ---
 
