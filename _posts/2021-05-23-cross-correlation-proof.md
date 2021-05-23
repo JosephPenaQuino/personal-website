@@ -1,0 +1,18 @@
+---
+title: "Proof of cross correlation algorithm"
+published: true
+comments: true
+---
+
+# Introduction
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris quis massa sed urna vehicula dignissim bibendum vel felis. Donec sollicitudin euismod ex, nec mollis lorem molestie at. Aenean tincidunt rutrum rutrum. Sed vitae efficitur leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam fringilla mollis imperdiet. Integer eget mauris ut mi mollis feugiat eget eu neque. In ligula lorem, tincidunt ac erat nec, interdum interdum ex. Mauris convallis, metus id aliquet maximus, purus metus rhoncus lacus, nec ullamcorper dolor risus vitae nulla. Curabitur turpis elit, sollicitudin vitae nisi eu, finibus consectetur erat. Phasellus scelerisque, felis eu tincidunt consectetur, ex odio vulputate elit, sed gravida tellus nisl vitae metus. Ut pretium, sapien in aliquam efficitur, orci tellus egestas felis, a sollicitudin est purus et lorem.
+
+Ut tristique, augue vitae dapibus vehicula, nibh quam tempor leo, eget laoreet lectus ex eu turpis. Integer nibh leo, consectetur eget volutpat pharetra, porta quis est. Maecenas arcu purus, convallis vel ante imperdiet, tempus varius neque. Proin sed ultrices massa. Aliquam eu velit enim. Sed volutpat enim leo, ac tempor nulla volutpat at. Ut at malesuada ante. Ut posuere placerat lectus, id scelerisque augue tempus sed.
+
+Maecenas rhoncus id libero sed auctor. Vestibulum lobortis sapien quis eleifend interdum. Proin viverra lacus et justo aliquet, vel mattis augue fermentum. Curabitur volutpat, lacus non suscipit ultrices, magna libero maximus massa, in imperdiet mi massa ac tortor. Proin sit amet urna consectetur, tempus mi eu, interdum ex. Curabitur metus justo, imperdiet ut sagittis eu, gravida eget metus. Maecenas vestibulum velit sem, ut malesuada arcu iaculis nec. Quisque non mauris at enim fringilla vulputate. Suspendisse tristique velit lorem, et semper lacus faucibus tempor. Praesent nec mi sed ex placerat dapibus at nec enim. Nulla sagittis purus quis dolor maximus volutpat.
+
+Proin malesuada libero urna, quis venenatis lorem ullamcorper nec. Etiam tempus ligula nec tortor gravida ullamcorper. Praesent vitae lacus nec metus malesuada condimentum. Nullam vitae purus neque. Aliquam orci nisi, commodo ut efficitur non, facilisis nec nunc. Vestibulum sit amet quam eget ligula dignissim laoreet. Aliquam vestibulum magna tellus, ut consectetur felis tincidunt quis. Vivamus vel augue congue, dictum felis ut, egestas enim. Etiam efficitur dignissim risus a pretium. Donec lorem ligula, semper in mauris quis, pretium bibendum ex. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed justo turpis, fringilla ac vestibulum eget, commodo eget sem. Donec facilisis consequat est egestas rhoncus. Donec sit amet accumsan sem. Donec id mi eget urna iaculis feugiat.
+
+Aenean sit amet neque ac lectus dictum aliquet. Suspendisse pharetra leo sodales metus scelerisque luctus. Nunc euismod faucibus sapien quis sodales. Donec suscipit, mauris in lacinia volutpat, mi leo tempus nisl, sodales consectetur lectus mauris ut nibh. Nunc non ligula consequat, feugiat augue eget, bibendum nulla. Nullam eros orci, luctus eget sodales a, pulvinar commodo libero. Mauris placerat velit augue, sed dictum orci tempor id. Nam dapibus, ipsum non ultrices tincidunt, sapien massa accumsan sem, eu porttitor tellus leo eget tellus. Nulla ac nibh ut sem aliquam scelerisque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec aliquet venenatis pulvinar. Sed molestie tempus erat eu varius. 
