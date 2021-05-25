@@ -56,7 +56,7 @@ topics:
   - name: C
     image_url: https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png
 
-  - name: Raspberry
+  - name: Raspberry Pi
     web_url: https://www.raspberrypi.org/
     image_url: https://cdn.iconscout.com/icon/free/png-256/raspberry-pi-3-569254.png
 
