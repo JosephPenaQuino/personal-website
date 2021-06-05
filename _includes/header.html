@@ -37,6 +37,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-5LFW7DG');</script>
 <!-- End Google Tag Manager -->
+{% if jekyll.environment == 'production' %}
+{% include analytics.html %}
+{% endif %}
   </head>
   <body class="bg-white min-height-full" {% if site.style == 'dark' %}style="background-color: #2f363d !important"{% endif %}>
 	  <!-- Google Tag Manager (noscript) -->
