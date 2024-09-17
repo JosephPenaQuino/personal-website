@@ -51,7 +51,7 @@ topics:
 
   - name: FreeRTOS 
     web_url: https://www.freertos.org/
-    image_url: https://www.freertos.org/fr-content-src/uploads/2018/07/logo-1.jpg
+    image_url: https://www.freertos.org/media/2023/logo.png
 
   - name: C
     image_url: https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png
